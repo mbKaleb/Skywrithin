@@ -33,9 +33,9 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 
 ### Projects 
 
-[EthersScout](https://github.com/Skywrithin/EtherScout)
+[EtherScout](https://github.com/Skywrithin/EtherScout)
 
-[Project Hopper](https://github.com/Skywrithin/project-hopper) [Demo](https://pathfinder-visualizer-kaleb.herokuapp.com)
+[Project Hopper](https://github.com/Skywrithin/project-hopper) [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) [Demo]()
 
