@@ -1,10 +1,10 @@
 ### Hello, I'm Kaleb 👋
 
-Experienced with JavaScript and front-end frameworks. I am skilled and can perform across backend stacks as well. 
+Experienced with JavaScript and Ruby, from front-end to server-side frameworks. My passion is in new technology, and right now it seems everything new is on the front-end. So that is my current focus, though I can learn quickly and adapt to new environments.
 
-I recently graduated from Penn Foster and went on to complete the software engineering course at the Flatirons School. Now I create projects with new and complex technologies and concepts.
+I recently graduated from Penn Foster and went on to complete the software engineering course at the Flatirons School. Now I create projects with new and complex technologies and concepts. 
 
-### Skills
+### ⚡Skills⚡
 
 #### Languages
 
@@ -16,7 +16,7 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 #### Technologies
 
-• Postgresql
+• Postgresql and Active Record
 
 • Heroku Deployment 
 
@@ -27,14 +27,25 @@ I recently graduated from Penn Foster and went on to complete the software engin
 • React.js v18
 
 
-### 
+### 📅 Today 📅
 
-test
+Following my passion for AI, I am working on a chess engine. The project wil be written in the modern t3 stack: TypeScript, Next.js, tRPC, TailwindCSS, and Prisma. New conecpts include: [Decision Tree Pruning](https://en.wikipedia.org/wiki/Decision_tree_pruning), [Alpha/Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+
+### Projects 
+
+[EthersScout](https://github.com/Skywrithin/EtherScout) 
+[Project Hopper](https://github.com/Skywrithin/project-hopper) [Demo](https://pathfinder-visualizer-kaleb.herokuapp.com)
+[Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) [Demo]()
+
+
+
+
+### 📫 Contact 📫
+
+Email: kaleb.franken7@gmail.com
+Mobile: 720-419-8622
+
 <!--
-**Skywrithin/Skywrithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
