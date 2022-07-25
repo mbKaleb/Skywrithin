@@ -33,8 +33,10 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 
 ### Projects 
 
-[EthersScout](https://github.com/Skywrithin/EtherScout) 
+[EthersScout](https://github.com/Skywrithin/EtherScout)
+
 [Project Hopper](https://github.com/Skywrithin/project-hopper) [Demo](https://pathfinder-visualizer-kaleb.herokuapp.com)
+
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) [Demo]()
 
 
@@ -43,6 +45,7 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 ### 📫 Contact 📫
 
 Email: kaleb.franken7@gmail.com
+
 Mobile: 720-419-8622
 
 <!--
