@@ -9,15 +9,21 @@ I recently graduated from Penn Foster and went on to complete the software engin
 #### Languages
 
 • JavaScript
+
 • **TypeScript**
+
 • Ruby
 
 #### Technologies
 
 • Postgresql
+
 • Heroku Deployment 
+
 • Ethers.js
+
 • Tailwind
+
 • React.js v18
 
 
