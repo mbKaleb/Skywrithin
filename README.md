@@ -1,6 +1,6 @@
 ### Hello, I'm Kaleb 👋
 
-Experienced with JavaScript and Ruby, from front-end to server-side frameworks. My passion is in new technology, and right now it seems everything new is on the front-end. So that is my current focus, though I can learn quickly and adapt to new environments.
+Experienced with JavaScript and Ruby, from front-end to server-side frameworks. My passion is in new technology, and right now it seems everything new is on the front-end. That is my current focus, though I can learn quickly and adapt to new environments.
 
 I recently graduated from Penn Foster and went on to complete the software engineering course at the Flatirons School. Now I create projects with new and complex technologies and concepts. 
 
@@ -31,15 +31,14 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 Following my passion for AI, I am working on a chess engine. The project wil be written in the modern t3 stack: TypeScript, Next.js, tRPC, TailwindCSS, and Prisma. New conecpts include: [Decision Tree Pruning](https://en.wikipedia.org/wiki/Decision_tree_pruning), [Alpha/Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 
-### Projects 
+
+### Projects
+
+[Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
 [EtherScout](https://github.com/Skywrithin/EtherScout)
 
-[Project Hopper](https://github.com/Skywrithin/project-hopper) [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
-
-[Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) [Demo]()
-
-
+[Project Hopper](https://github.com/Skywrithin/project-hopper)
 
 
 ### 📫 Contact 📫
