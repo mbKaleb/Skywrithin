@@ -29,6 +29,8 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 ### 📅 Today 📅
 
+Recently joined an amateur dev team for fun/complex projects!
+
 Following my passion for AI, I am working on a chess engine. The project wil be written in the modern t3 stack: TypeScript, Next.js, tRPC, TailwindCSS, and Prisma. New conecpts include: [Decision Tree Pruning](https://en.wikipedia.org/wiki/Decision_tree_pruning), [Alpha/Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 
 
