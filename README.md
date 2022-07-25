@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hello, I'm Kaleb 👋
 
-###
+Experienced with JavaScript and front-end frameworks. I am skilled and flexible across backed stacks as well. 
+
+I recently graduated from Penn Foster and went on to complete the software engineering course at the Flatirons School. Now I create projects with new and complex technologies and concepts.
+
+### Skills
+
+#### Languages
+
+
+
+### 
 
 test
 <!--
