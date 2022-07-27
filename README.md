@@ -47,8 +47,6 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 
 Email: kaleb.franken7@gmail.com
 
-Mobile: 720-419-8622
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
