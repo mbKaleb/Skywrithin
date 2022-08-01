@@ -12,19 +12,35 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 • **TypeScript**
 
+• Solidity
+
 • Ruby
 
-#### Technologies
+### Technologies
 
-• Postgresql and Active Record
-
-• Heroku Deployment 
+#### Web3
 
 • Ethers.js
 
-• Tailwind
+• Hardhat
+
+#### Front-End
 
 • React.js v18
+
+• Next.js
+
+• Tailwind
+
+#### Back-End
+
+• Postgresql and Active Record
+
+• Ruby On Rails
+
+#### Deployment
+
+• Heroku
 
 
 ### 📅 Today 📅
@@ -32,6 +48,9 @@ I recently graduated from Penn Foster and went on to complete the software engin
 Recently joined The Missing Bracket!
 
 Following my passion for AI, I am working on a chess engine. The project wil be written in the modern t3 stack: TypeScript, Next.js, tRPC, TailwindCSS, and Prisma. New conecpts include: [Decision Tree Pruning](https://en.wikipedia.org/wiki/Decision_tree_pruning), [Alpha/Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+
+
+
 
 
 ### Projects
