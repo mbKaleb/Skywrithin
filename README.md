@@ -20,7 +20,7 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 #### • Web3
 
-Ethers.js, Hardhat
+Ethers.js, Hardhat, MetaMask
 
 #### • Front-End
 
