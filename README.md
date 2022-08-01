@@ -18,30 +18,21 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 ### Technologies
 
-#### Web3
+#### • Web3
 
-• Ethers.js
+Ethers.js, Hardhat
 
-• Hardhat
+#### • Front-End
 
-#### Front-End
-
-• React.js v18
-
-• Next.js
-
-• Tailwind
+React.js v18, Next.js, Tailwind
 
 #### Back-End
 
-• Postgresql and Active Record
+Postgresql and Active Record, Ruby On Rails
 
-• Ruby On Rails
+#### • Deployment
 
-#### Deployment
-
-• Heroku
-
+Heroku
 
 ### 📅 Today 📅
 
