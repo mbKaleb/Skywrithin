@@ -8,13 +8,7 @@ I recently graduated from Penn Foster and went on to complete the software engin
 
 ### Languages
 
-• JavaScript
-
-• **TypeScript**
-
-• Solidity
-
-• Ruby
+• JavaScript, **TypeScript**, Solidity, Ruby
 
 ### Technologies
 
