@@ -38,7 +38,7 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 
 
 
-### Projects
+### Projects 
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
