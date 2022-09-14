@@ -42,7 +42,7 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
-[EtherScout](https://github.com/Skywrithin/EtherScout) | 
+[EtherScout](https://github.com/Skywrithin/EtherScout) | [**Demo**](https://www.youtube.com/watch?v=GsC8MomlBk8)
 
 [Project Hopper](https://github.com/Skywrithin/project-hopper)
 
