@@ -26,7 +26,7 @@ Postgresql and Active Record, Ruby On Rails
 
 #### • Deployment
 
-Heroku
+Heroku, AWS, Digital Ocean + DO CLI
 
 ### 📅 Today 📅
 
