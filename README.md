@@ -1,44 +1,22 @@
 ### Hello, I'm Kaleb 👋
 
-Experienced with JavaScript and Ruby, from front-end to server-side frameworks. My passion is in new technology, and right now it seems everything new is on the front-end. That is my current focus, though I can learn quickly and adapt to new environments.
 
-I recently graduated from Penn Foster and went on to complete the software engineering course at the Flatirons School. Now I create projects with new and complex technologies and concepts.  
-
-### ⚡Skills⚡
-
-### Languages
+### Tools of The Trade
 
 • JavaScript, **TypeScript**, Solidity, Ruby
 
-### Technologies
+• React.js, Nextjs, gql, Tailwind
 
-#### • Web3
-
-Ethers.js, Hardhat, MetaMask
-
-#### • Front-End
-
-React.js v18, Next.js, Tailwind
-
-#### Back-End
-
-Postgresql and Active Record, Ruby On Rails
-
-#### • Deployment
-
-Heroku, AWS, Digital Ocean + DO CLI
+• Postgresql and Active Record, Ruby On Rails
 
 ### 📅 Today 📅
 
-Recently joined The Missing Bracket!
-
-Following my passion for AI, I am working on a chess engine. The project wil be written in the modern t3 stack: TypeScript, Next.js, tRPC, TailwindCSS, and Prisma. New conecpts include: [Decision Tree Pruning](https://en.wikipedia.org/wiki/Decision_tree_pruning), [Alpha/Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+  Staying flexable and working with the talented engineers @minted to bring 
 
 
 
 
-
-### Projects 
+### Recent Projects
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
@@ -50,6 +28,7 @@ Following my passion for AI, I am working on a chess engine. The project wil be 
 ### 📫 Contact 📫
 
 Email: kaleb.franken7@gmail.com
+
 
 <!--
 - 🔭 I’m currently working on ...
