@@ -11,7 +11,7 @@
 
 ### 📅 Today 📅
 
-  Staying flexable and working with the talented engineers @minted to bring 
+  Staying flexable and working with the talented engineers @mint-ed to bring blockchain functionality to more people and communities.
 
 
 
