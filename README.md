@@ -5,13 +5,13 @@
 
 • JavaScript, **TypeScript**, Solidity, Ruby
 
-• React.js, Nextjs, gql, Tailwind
+• React.js, Nextjs, gql + Apollo Client, TailwindCSS, ChakraUI
 
 • Postgresql and Active Record, Ruby On Rails
 
 ### 📅 Today 📅
 
-  Staying flexable and working with the talented engineers @mint-ed to bring blockchain functionality to more people and communities.
+  Staying flexable and working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities.
 
 
 
@@ -28,7 +28,6 @@
 ### 📫 Contact 📫
 
 Email: kaleb.franken7@gmail.com
-
 
 <!--
 - 🔭 I’m currently working on ...
