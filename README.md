@@ -7,7 +7,7 @@
 
 • React.js, Nextjs, gql + Apollo Client, TailwindCSS, ChakraUI
 
-• Postgresql and Active Record, Ruby On Rails
+• Postgresql and Active Record
 
 ### 📅 Today 📅
 
