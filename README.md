@@ -11,7 +11,7 @@
 
 ### 📅 Today 📅
 
-Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities.
+Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities~
 
 
 
@@ -21,9 +21,6 @@ Working with the skilled engineers @mint-ed to bring blockchain functionality to
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
 [EtherScout](https://github.com/Skywrithin/EtherScout) | [**Demo**](https://www.youtube.com/watch?v=GsC8MomlBk8)
-
-[Project Hopper](https://github.com/Skywrithin/project-hopper)
-
 
 ### 📫 Contact 📫
 
