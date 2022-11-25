@@ -1,14 +1,5 @@
 ### Hello, I'm Kaleb 👋
 
-
-### Tools of The Trade
-
-• JavaScript, **TypeScript**, Solidity, Ruby
-
-• React.js, Nextjs, gql + Apollo Client, TailwindCSS, ChakraUI
-
-• Postgresql and Active Record
-
 ### 📅 Today 📅
 
 Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities~
