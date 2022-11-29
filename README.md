@@ -2,7 +2,9 @@
 
 ### 📅 Today 📅
 
-Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities~
+- Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities~
+
+- Plaing with some computer vision stuff 
 
 ### Recent Projects
 
