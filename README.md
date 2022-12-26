@@ -6,6 +6,7 @@
 
 - Plaing with some computer vision stuff
 
+
 ### Recent Projects
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
